@@ -24,5 +24,15 @@ def describe_state(cities, states)
     end
 end
 
+# task 4
+
+taxes = {
+  OR: 5,
+  FL: 6,
+  CA: 7.5,
+  MI: 4.25
+}
+
 describe_state(cities, states)
+
 
